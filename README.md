@@ -48,10 +48,7 @@
 ### Option 2: Run from Source (Windows / macOS / Linux)
 
 **1. Clone the repository:**
-```bash
-git clone https://github.com/YOUR_USERNAME/pdf-diff-studio.git
-cd pdf-diff-studio
-```
+
 
 **2. Create a virtual environment and install dependencies:**
 ```bash
